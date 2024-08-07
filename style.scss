@@ -1,0 +1,52 @@
+.main{
+    width: 250px;
+    text-align: center;
+    border: 5px solid purple;
+border-radius: 12px;
+    padding: 20px;
+    .img{
+border-radius: 50%;
+    }
+}
+// @keyframes style {
+// 0%{
+//     width: 200px;
+// }
+// 50%{
+//     border-radius: 12px;
+// }
+// 100%{
+//     width: 200px;
+//     border-radius: 12px;
+
+// }
+// }
+// .img:hover{
+// animation: style;
+// }
+// @ke
+
+.button{
+    padding: 10px;
+    width: 180px;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgba(128, 0, 128, 0.404);
+    border-radius: 12px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.text{
+    color: rgba(0, 0, 0, 0.473);
+}
+.name{
+    font-family: sans-serif;
+}
+.img:hover{
+    // position: relative;
+    // font-size: 200px;
+    border-radius: 20px;
+    // position: relative;
+    // margin-top: 20px;
+border: 7px double rgb(77, 126, 216);
+transition: 1s;
+}
