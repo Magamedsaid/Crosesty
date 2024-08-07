@@ -31,11 +31,6 @@ r.forEach((elem,i)=>{
     mainhtml.append(main)
     
 
-    // image.style.width = "200px"
-    // image.style.border = "3px solid #9400d3"
-    // image.style.borderRadius = "15px"
-    // image.style.marginTop = "20px"
-    // image.style.boxShadow = "0px 0px 10px #9400d3"
     
 
     // Box.append(mainblock)
